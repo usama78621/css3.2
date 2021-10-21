@@ -1,0 +1,19 @@
+#header{
+    background-color: rgb(133, 161, 161);
+    color: white;
+    height: 80px;
+    padding-left: 550px;
+    display: flex;
+} 
+#Navigation{
+    background-color: rgb(133, 161, 161);
+    height: 50px;
+    padding-left: 545px;
+    color: white
+}
+
+#allcontent{
+    background-color: rgb(133, 161, 161);
+    height: 300px;
+    color: white;
+}
